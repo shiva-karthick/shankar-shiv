@@ -1,7 +1,7 @@
 
 # Hi there 👋🏻
 
-I'm Shankar, a EE student from the National University of Singapore (NUS)! I love problem-solving and colloborating with technical projects, and playing the electric guitar.
+I'm Shankar, a EE student from the National University of Singapore (NUS)! I love problem-solving and colloborating with technical projects, and playing the tabla.
 
 ### Currently
 - Looking at Reinforcement Learning and Control theory

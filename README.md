@@ -1,10 +1,12 @@
 
 # Hi there 👋🏻
 
-I'm Shankar, a EE student from the National University of Singapore (NUS)! I love problem-solving and colloborating with technical projects, and playing the tabla.
+I'm Shankar, a EE student from the National University of Singapore (NUS)! I love working with Machine Learning on edge devices and collaborating with technical projects, and playing the tabla.
 
 ### Currently
 - Looking at Reinforcement Learning and Control theory
+- Graph Neural Networks
+- Deep Q Learning
 
 Find out more here [http://shankar-shiv.github.io](http://shankar-shiv.github.io)
 
